@@ -227,7 +227,6 @@ This project is licensed under the [License](LICENSE).
 
 ## 🔗 Links
 
-- [Maven Central Repository](https://mvnrepository.com/)
 - [Java Documentation](https://docs.oracle.com/en/java/)
 
 ---
