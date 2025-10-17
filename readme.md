@@ -24,6 +24,31 @@ JPluginLoader is a simple and efficient Java library that enables applications t
 
 ### Installation
 
+#### Option 1: Via JitPack (Recommended)
+
+Add the JitPack repository to your `pom.xml`:
+
+```xml
+<repositories>
+    <repository>
+        <id>jitpack.io</id>
+        <url>https://jitpack.io</url>
+    </repository>
+</repositories>
+```
+
+Then add the dependency:
+
+```xml
+<dependency>
+    <groupId>com.github.Andy16823</groupId>
+    <artifactId>JPluginLoader</artifactId>
+    <version>Tag</version>
+</dependency>
+```
+
+#### Option 2: Local Build
+
 Add the dependency to your `pom.xml`:
 
 ```xml
