@@ -47,18 +47,6 @@ Then add the dependency:
 </dependency>
 ```
 
-#### Option 2: Local Build
-
-Add the dependency to your `pom.xml`:
-
-```xml
-<dependency>
-    <groupId>com.ad</groupId>
-    <artifactId>jpluginloader</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-</dependency>
-```
-
 ### Basic Usage
 
 1. **Define Plugin Interface:**
